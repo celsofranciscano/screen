@@ -375,7 +375,7 @@ export default function App() {
             </div>
             <div>
               <h1 className="text-2xl font-bold bg-gradient-to-r from-red-400 to-red-600 bg-clip-text text-transparent">
-                Grabador de Pantalla
+                Snap Rec
               </h1>
               <p className="text-gray-400 text-sm">
                 Captura tu pantalla con audio
@@ -791,10 +791,6 @@ export default function App() {
               <Globe className="w-4 h-4" />
               <span>celso.pages.dev</span>
             </a>
-            <div className="flex items-center gap-1.5">
-              <User className="w-4 h-4" />
-              <span>Celso Franciscano</span>
-            </div>
           </div>
         </footer>
       </div>
